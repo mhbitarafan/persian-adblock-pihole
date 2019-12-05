@@ -34,6 +34,7 @@ kimexa.com
 laleh.itrc.ac.ir
 magnetadservices.com
 mediaad.org
+mediacdn.mediaad.org
 mesearch.xyz
 netbina.com
 nutnet.ir
