@@ -74,3 +74,4 @@ yektanet.com
 cdn.yektanet.com
 zarpop.com
 iranjo.cf
+app.najva.com
