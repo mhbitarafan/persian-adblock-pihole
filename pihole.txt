@@ -29,6 +29,7 @@ irpopup.ir
 js.foxpush.com
 kaprila.com
 cdn.kaprila.com
+beta.kaprila.com
 khf.nz
 kimexa.com
 laleh.itrc.ac.ir
